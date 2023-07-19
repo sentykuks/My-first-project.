@@ -1,2 +1,3 @@
 /mylogs.log
-*.log
+log/mylogs.log
+__init__.py
